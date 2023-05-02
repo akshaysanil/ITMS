@@ -1,0 +1,10 @@
+# COCO 2017 dataset http://cocodataset.org
+
+
+train: /home/dell/Desktop/ITMS/sample_Yolov7/data/train
+val: /home/dell/Desktop/ITMS/sample_Yolov7/data/val
+
+nc: 6
+
+# class names
+names: [ 'single','double','triple','helmet','no helmet','number_plate']
